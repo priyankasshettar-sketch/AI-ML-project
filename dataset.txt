@@ -1,0 +1,301 @@
+SNo,crop,condition,N,P,K
+1,rice,irrigated,120,60,40
+2,rice,rainfed,84,42,28
+3,wheat,irrigated,150,60,40
+4,wheat,rainfed,105,42,28
+5,maize,irrigated,180,60,50
+6,maize,rainfed,126,42,35
+7,sorghum,irrigated,100,50,40
+8,sorghum,rainfed,70,35,28
+9,bajra,irrigated,90,45,40
+10,bajra,rainfed,63,32,28
+11,ragi,irrigated,80,40,40
+12,ragi,rainfed,56,28,28
+13,barley,irrigated,120,50,40
+14,barley,rainfed,84,35,28
+15,oats,irrigated,100,50,40
+16,oats,rainfed,70,35,28
+17,foxtail millet,irrigated,80,40,40
+18,foxtail millet,rainfed,56,28,28
+19,little millet,irrigated,70,35,35
+20,little millet,rainfed,49,25,25
+21,kodo millet,irrigated,70,35,35
+22,kodo millet,rainfed,49,25,25
+23,barnyard millet,irrigated,70,35,35
+24,barnyard millet,rainfed,49,25,25
+25,proso millet,irrigated,70,35,35
+26,proso millet,rainfed,49,25,25
+27,groundnut,irrigated,30,60,40
+28,groundnut,rainfed,21,42,28
+29,soybean,irrigated,20,60,40
+30,soybean,rainfed,14,42,28
+31,sunflower,irrigated,120,60,60
+32,sunflower,rainfed,84,42,42
+33,mustard,irrigated,100,50,50
+34,mustard,rainfed,70,35,35
+35,sesame,irrigated,80,40,40
+36,sesame,rainfed,56,28,28
+37,linseed,irrigated,80,40,40
+38,linseed,rainfed,56,28,28
+39,castor,irrigated,100,50,50
+40,castor,rainfed,70,35,35
+41,safflower,irrigated,80,40,40
+42,safflower,rainfed,56,28,28
+43,niger,irrigated,60,30,30
+44,niger,rainfed,42,21,21
+45,gram,irrigated,20,50,40
+46,gram,rainfed,14,35,28
+47,arhar,irrigated,25,50,40
+48,arhar,rainfed,18,35,28
+49,moong,irrigated,20,45,35
+50,moong,rainfed,14,32,25
+51,urad,irrigated,20,40,35
+52,urad,rainfed,14,28,25
+53,lentil,irrigated,20,45,35
+54,lentil,rainfed,14,32,25
+55,pea,irrigated,40,60,40
+56,pea,rainfed,28,42,28
+57,cowpea,irrigated,25,50,40
+58,cowpea,rainfed,18,35,28
+59,chickpea,irrigated,20,50,40
+60,chickpea,rainfed,14,35,28
+61,rajma,irrigated,25,50,40
+62,rajma,rainfed,18,35,28
+63,horsegram,irrigated,20,40,30
+64,horsegram,rainfed,14,28,21
+65,lablab,irrigated,25,50,40
+66,lablab,rainfed,18,35,28
+67,french bean,irrigated,25,50,40
+68,french bean,rainfed,18,35,28
+69,cluster bean,irrigated,25,50,40
+70,cluster bean,rainfed,18,35,28
+71,potato,irrigated,180,80,100
+72,potato,rainfed,126,56,70
+73,sweet potato,irrigated,100,50,50
+74,sweet potato,rainfed,70,35,35
+75,tapioca,irrigated,100,50,100
+76,tapioca,rainfed,70,35,70
+77,onion,irrigated,100,50,50
+78,onion,rainfed,70,35,35
+79,garlic,irrigated,100,50,50
+80,garlic,rainfed,70,35,35
+81,tomato,irrigated,120,60,60
+82,tomato,rainfed,84,42,42
+83,brinjal,irrigated,120,60,60
+84,brinjal,rainfed,84,42,42
+85,chilli,irrigated,120,60,60
+86,chilli,rainfed,84,42,42
+87,okra,irrigated,100,50,50
+88,okra,rainfed,70,35,35
+89,cabbage,irrigated,110,55,55
+90,cabbage,rainfed,77,38,38
+91,cauliflower,irrigated,110,55,55
+92,cauliflower,rainfed,77,38,38
+93,carrot,irrigated,90,45,45
+94,carrot,rainfed,63,32,32
+95,beetroot,irrigated,90,45,45
+96,beetroot,rainfed,63,32,32
+97,radish,irrigated,80,40,40
+98,radish,rainfed,56,28,28
+99,turnip,irrigated,80,40,40
+100,turnip,rainfed,56,28,28
+101,spinach,irrigated,80,40,40
+102,spinach,rainfed,56,28,28
+103,coriander,irrigated,60,30,30
+104,coriander,rainfed,42,21,21
+105,fenugreek,irrigated,60,30,30
+106,fenugreek,rainfed,42,21,21
+107,lettuce,irrigated,80,40,40
+108,lettuce,rainfed,56,28,28
+109,amaranthus,irrigated,80,40,40
+110,amaranthus,rainfed,56,28,28
+111,celery,irrigated,100,50,50
+112,celery,rainfed,70,35,35
+113,parsley,irrigated,60,30,30
+114,parsley,rainfed,42,21,21
+115,chives,irrigated,60,30,30
+116,chives,rainfed,42,21,21
+117,cucumber,irrigated,100,50,50
+118,cucumber,rainfed,70,35,35
+119,pumpkin,irrigated,100,50,50
+120,pumpkin,rainfed,70,35,35
+121,bottle gourd,irrigated,100,50,50
+122,bottle gourd,rainfed,70,35,35
+123,ridge gourd,irrigated,100,50,50
+124,ridge gourd,rainfed,70,35,35
+125,bitter gourd,irrigated,100,50,50
+126,bitter gourd,rainfed,70,35,35
+127,sponge gourd,irrigated,100,50,50
+128,sponge gourd,rainfed,70,35,35
+129,snake gourd,irrigated,100,50,50
+130,snake gourd,rainfed,70,35,35
+131,ash gourd,irrigated,100,50,50
+132,ash gourd,rainfed,70,35,35
+133,ivy gourd,irrigated,100,50,50
+134,ivy gourd,rainfed,70,35,35
+135,pointed gourd,irrigated,100,50,50
+136,pointed gourd,rainfed,70,35,35
+137,zucchini,irrigated,100,50,50
+138,zucchini,rainfed,70,35,35
+139,broccoli,irrigated,110,55,55
+140,broccoli,rainfed,77,38,38
+141,kale,irrigated,80,40,40
+142,kale,rainfed,56,28,28
+143,leek,irrigated,100,50,50
+144,leek,rainfed,70,35,35
+145,shallots,irrigated,100,50,50
+146,shallots,rainfed,70,35,35
+147,green pea (veg),irrigated,40,60,40
+148,green pea (veg),rainfed,28,42,28
+149,sweet corn,irrigated,180,60,50
+150,sweet corn,rainfed,126,42,35
+151,baby corn,irrigated,180,60,50
+152,baby corn,rainfed,126,42,35
+153,drumstick (annual),irrigated,100,50,50
+154,drumstick (annual),rainfed,70,35,35
+155,colocasia,irrigated,100,50,50
+156,colocasia,rainfed,70,35,35
+157,yam,irrigated,100,50,50
+158,yam,rainfed,70,35,35
+159,turnip greens,irrigated,80,40,40
+160,turnip greens,rainfed,56,28,28
+161,mustard greens,irrigated,80,40,40
+162,mustard greens,rainfed,56,28,28
+163,basella,irrigated,80,40,40
+164,basella,rainfed,56,28,28
+165,roselle,irrigated,80,40,40
+166,roselle,rainfed,56,28,28
+167,kenaf,irrigated,80,40,40
+168,kenaf,rainfed,56,28,28
+169,quinoa,irrigated,80,40,40
+170,quinoa,rainfed,56,28,28
+171,buckwheat,irrigated,70,35,35
+172,buckwheat,rainfed,49,25,25
+173,teff,irrigated,70,35,35
+174,teff,rainfed,49,25,25
+175,canola,irrigated,100,50,50
+176,canola,rainfed,70,35,35
+177,alfalfa,irrigated,20,50,40
+178,alfalfa,rainfed,14,35,28
+179,clover,irrigated,20,50,40
+180,clover,rainfed,14,35,28
+181,napier grass,irrigated,150,60,60
+182,napier grass,rainfed,105,42,42
+183,guinea grass,irrigated,150,60,60
+184,guinea grass,rainfed,105,42,42
+185,berseem,irrigated,20,50,40
+186,berseem,rainfed,14,35,28
+187,lucerne,irrigated,20,50,40
+188,lucerne,rainfed,14,35,28
+189,oat fodder,irrigated,100,50,40
+190,oat fodder,rainfed,70,35,28
+191,maize fodder,irrigated,180,60,50
+192,maize fodder,rainfed,126,42,35
+193,sorghum fodder,irrigated,100,50,40
+194,sorghum fodder,rainfed,70,35,28
+195,cowpea fodder,irrigated,25,50,40
+196,cowpea fodder,rainfed,18,35,28
+197,stylo,irrigated,20,40,30
+198,stylo,rainfed,14,28,21
+199,desmanthus,irrigated,20,40,30
+200,desmanthus,rainfed,14,28,21
+201,green gram fodder,irrigated,25,50,40
+202,green gram fodder,rainfed,18,35,28
+203,black gram fodder,irrigated,25,50,40
+204,black gram fodder,rainfed,18,35,28
+205,field bean,irrigated,25,50,40
+206,field bean,rainfed,18,35,28
+207,winged bean,irrigated,25,50,40
+208,winged bean,rainfed,18,35,28
+209,velvet bean,irrigated,25,50,40
+210,velvet bean,rainfed,18,35,28
+211,sword bean,irrigated,25,50,40
+212,sword bean,rainfed,18,35,28
+213,hyacinth bean,irrigated,25,50,40
+214,hyacinth bean,rainfed,18,35,28
+215,scarlet runner bean,irrigated,25,50,40
+216,scarlet runner bean,rainfed,18,35,28
+217,lima bean,irrigated,25,50,40
+218,lima bean,rainfed,18,35,28
+219,pigeonpea (short duration),irrigated,25,50,40
+220,pigeonpea (short duration),rainfed,18,35,28
+221,horse bean,irrigated,20,40,30
+222,horse bean,rainfed,14,28,21
+223,field pea (grain),irrigated,40,60,40
+224,field pea (grain),rainfed,28,42,28
+225,grass pea,irrigated,20,40,30
+226,grass pea,rainfed,14,28,21
+227,fenugreek greens,irrigated,60,30,30
+228,fenugreek greens,rainfed,42,21,21
+229,curry leaf (annual nursery),irrigated,60,30,30
+230,curry leaf (annual nursery),rainfed,42,21,21
+231,onion greens,irrigated,80,40,40
+232,onion greens,rainfed,56,28,28
+233,garlic greens,irrigated,80,40,40
+234,garlic greens,rainfed,56,28,28
+235,leaf beet,irrigated,80,40,40
+236,leaf beet,rainfed,56,28,28
+237,rocket (arugula),irrigated,80,40,40
+238,rocket (arugula),rainfed,56,28,28
+239,water spinach,irrigated,80,40,40
+240,water spinach,rainfed,56,28,28
+241,methi microgreens,irrigated,60,30,30
+242,methi microgreens,rainfed,42,21,21
+243,radish microgreens,irrigated,60,30,30
+244,radish microgreens,rainfed,42,21,21
+245,sunflower microgreens,irrigated,60,30,30
+246,sunflower microgreens,rainfed,42,21,21
+247,pea microgreens,irrigated,60,30,30
+248,pea microgreens,rainfed,42,21,21
+249,broccoli microgreens,irrigated,60,30,30
+250,broccoli microgreens,rainfed,42,21,21
+251,red cabbage,irrigated,110,55,55
+252,red cabbage,rainfed,77,38,38
+253,green cabbage,irrigated,110,55,55
+254,green cabbage,rainfed,77,38,38
+255,purple cauliflower,irrigated,110,55,55
+256,purple cauliflower,rainfed,77,38,38
+257,yellow carrot,irrigated,90,45,45
+258,yellow carrot,rainfed,63,32,32
+259,black carrot,irrigated,90,45,45
+260,black carrot,rainfed,63,32,32
+261,round brinjal,irrigated,120,60,60
+262,round brinjal,rainfed,84,42,42
+263,long brinjal,irrigated,120,60,60
+264,long brinjal,rainfed,84,42,42
+265,green chilli,irrigated,120,60,60
+266,green chilli,rainfed,84,42,42
+267,red chilli (dry),irrigated,120,60,60
+268,red chilli (dry),rainfed,84,42,42
+269,okra hybrid,irrigated,100,50,50
+270,okra hybrid,rainfed,70,35,35
+271,desi cucumber,irrigated,100,50,50
+272,desi cucumber,rainfed,70,35,35
+273,hybrid tomato,irrigated,120,60,60
+274,hybrid tomato,rainfed,84,42,42
+275,cherry tomato,irrigated,120,60,60
+276,cherry tomato,rainfed,84,42,42
+277,leaf lettuce,irrigated,80,40,40
+278,leaf lettuce,rainfed,56,28,28
+279,head lettuce,irrigated,80,40,40
+280,head lettuce,rainfed,56,28,28
+281,iceberg lettuce,irrigated,80,40,40
+282,iceberg lettuce,rainfed,56,28,28
+283,spinach beet,irrigated,80,40,40
+284,spinach beet,rainfed,56,28,28
+285,malabar spinach,irrigated,80,40,40
+286,malabar spinach,rainfed,56,28,28
+287,indian spinach,irrigated,80,40,40
+288,indian spinach,rainfed,56,28,28
+289,cluster bean vegetable,irrigated,25,50,40
+290,cluster bean vegetable,rainfed,18,35,28
+291,cowpea vegetable,irrigated,25,50,40
+292,cowpea vegetable,rainfed,18,35,28
+293,french bean vegetable,irrigated,25,50,40
+294,french bean vegetable,rainfed,18,35,28
+295,lablab vegetable,irrigated,25,50,40
+296,lablab vegetable,rainfed,18,35,28
+297,field bean vegetable,irrigated,25,50,40
+298,field bean vegetable,rainfed,18,35,28
+299,vegetable pea,irrigated,40,60,40
+300,vegetable pea,rainfed,28,42,28
